@@ -8,7 +8,7 @@ st.set_page_config(layout="wide")
 
 st.title("Ingresos en Chile")
 
-st.markdown("A continuación se presentan los datos de la Encuesta Suplementaria de Ingresos que puedes descargar desde [este enlace]('https://www.ine.gob.cl/estadisticas/sociales/ingresos-y-gastos/encuesta-suplementaria-de-ingresos'). Hemos seleccionado sólo las columnas relevantes para esta aplicación pero puedes descargar aquí la encuesta completa seleccionando 'Import' y luego 'Import Files'.")
+st.markdown("A continuación se presentan los datos de la última Encuesta Suplementaria de Ingresos correspondiente al año 2022 que puedes descargar desde [este enlace]('https://www.ine.gob.cl/estadisticas/sociales/ingresos-y-gastos/encuesta-suplementaria-de-ingresos'). Hemos seleccionado sólo las columnas relevantes para esta aplicación pero puedes descargar aquí la encuesta completa seleccionando 'Import' y luego 'Import Files'.")
 
 st.markdown("Sigue las instrucciones para obtener el ingreso medio de las personas ocupadas en Chile.")
 
